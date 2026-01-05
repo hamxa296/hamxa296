@@ -17,17 +17,20 @@
 - 🔬 AI / ML research collaboration
 - 💡 Software & AI projects
 - 🚀 Student-led technical initiatives
+
 ---
 
 ### 🚀 Featured Projects
 
-#### 🏎️ GA vs. DQN - Autonomous Navigation
+**🏎️ GA vs. DQN - Autonomous Navigation**
 *Comparative analysis of Evolutionary Computation and Reinforcement Learning.*
 - **Tech:** Python, PyTorch, NumPy, Ray-Casting Physics
 - **Insights:** Developed a custom 2D simulation with ray-cast sensors to benchmark algorithms, proving Genetic Algorithms outperformed Deep Q-Networks in stability for reactive navigation tasks.
 - 🔗 **[View Repository](https://github.com/Sel68/learn-track-GA-RL.git)**
 
-#### 👁️ VisionGuard - Facial Recognition Security
+<br>
+
+**👁️ VisionGuard - Facial Recognition Security**
 *High-performance access control system built with C++ and OpenCV.*
 - **Core AI:** Utilized **ResNet-10 SSD** for real-time face detection and **ArcFace** to generate 512-dimensional embeddings for identity verification.
 - **Tech:** C++, OpenCV, CMake, Custom DSA (AVL Trees, Graphs)
