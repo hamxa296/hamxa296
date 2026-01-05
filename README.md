@@ -43,7 +43,7 @@
 
 ---
 ### 🌐 Lets Connect :)
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/hamza-arif-giki">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
